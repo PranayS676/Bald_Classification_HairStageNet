@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Baldness Classification Project
 
 This project aims to classify different stages of baldness using deep learning techniques implemented with PyTorch, OpenCV, and Scikit-learn. The dataset used for this project consists of approximately 2100 images obtained from Roboflow Universe. These images are annotated with five possible classes of baldness: bald, normal, stage1, stage2, and stage3.
@@ -49,3 +50,7 @@ Several CNN architectures were experimented with, ranging from simple to complex
 Due to the limited number of images and slight class imbalance, achieving optimal performance on all metrics was challenging. <br> Certain metrics were prioritized over others based on the nature of the problem and the goals of the classification task.
 
 For further details and implementation code, please refer to the project files.
+=======
+# Bald_Classification_HairStageNet
+A deep learning project to classify baldness stages using image datasets. Includes training, validation, and personal images for prediction. Leverages computer vision to identify the user's current baldness stage. Built with custom image support for personalized results.
+>>>>>>> 90ae1375f75f09b6d070503559439d562b4ab3ff
